@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="col_333333">#333333</color>
+    <color name="col_111111">#111111</color>
+    <color name="col_ffae00">#ffae00</color>
+    <color name="col_ffe5ad">#ffe5ad</color>
+    <color name="col_ff8400">#ff8400</color>
+    <color name="col_ff0000">#ff0000</color>
+    <color name="col_000000_translucent25">#40000000</color>
+    <color name="col_000000_translucent50">#80000000</color>
+
+    <color name="col_cccccc">#cccccc</color>
+</resources>

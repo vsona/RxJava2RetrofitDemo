@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="vs_recycler" type="id"/>
+    <item name="vs_list_view" type="id"/>
+    <item name="vs_grid_view" type="id"/>
+    <item name="vs_title" type="id"/>
+    <item name="vs_image" type="id"/>
+    <item name="vs_desc" type="id"/>
+    <item name="vs_text" type="id"/>
+    <item name="vs_pager" type="id"/>
+    <item name="vs_toolbar" type="id"/>
+    <item name="vs_go" type="id"/>
+
+    <item name="vs_content_frame" type="id"/>
+    <item name="vs_content_frame_fragment" type="id"/>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="col_theme_0092">#0092ff</color>
+    <color name="col_theme_yellow_ffb5">@color/yellow_ffb5</color>
+
+    <color name="sd_text_black_33">@color/col_333333</color>
+    <color name="sd_text_grey_deep_66">@color/col_666666</color>
+    <color name="sd_text_grey_99">@color/col_999999</color>
+    <color name="sd_text_grey_light_bb">@color/col_bbbbbb</color>
+
+    <color name="sd_line_grey_da">@color/col_dadada</color>
+    <color name="sd_bg_grey_f0">@color/col_f0f0f0</color>
+    <color name="sd_red_ff">@color/col_ff0000</color>
+
+    <color name="col_666666">#666666</color>
+    <color name="col_999999">#999999</color>
+    <color name="col_bbbbbb">#bbbbbb</color>
+    <color name="col_dadada">#dadada</color>
+    <color name="col_f0f0f0">#f0f0f0</color>
+
+    <color name="yellow_ffb5">#ffb514</color>
+    <color name="white">#FFFFFF</color>
+</resources>
