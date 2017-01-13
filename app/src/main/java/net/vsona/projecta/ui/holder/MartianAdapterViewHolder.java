@@ -1,4 +1,4 @@
-package net.vsona.projecta.ui.page.holder;
+package net.vsona.projecta.ui.holder;
 
 import android.graphics.Bitmap;
 import android.graphics.Typeface;

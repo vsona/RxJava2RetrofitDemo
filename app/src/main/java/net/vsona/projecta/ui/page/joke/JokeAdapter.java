@@ -9,7 +9,7 @@ import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
 
 import net.vsona.projecta.R;
 import net.vsona.projecta.domain.JockDo;
-import net.vsona.projecta.ui.page.holder.MartianAdapterViewHolder;
+import net.vsona.projecta.ui.holder.MartianAdapterViewHolder;
 
 /**
  * Author   : roy
