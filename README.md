@@ -1,2 +1,2 @@
-#A Demo with RxJava OkHttp Retrofit
-* pretty code
+#A demo show how to use Retrofit with Rxjava
+
